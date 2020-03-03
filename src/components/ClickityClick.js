@@ -1,8 +1,6 @@
 // Code ClickityClick Component Here
 
 import React from 'react';
-import ReactDOM from 'react-dom';
-import ClickityClick from './components/ClickityClick';
 
 export default class ClickityClick extends React.Component {
 
@@ -52,5 +50,4 @@ export default class ClickityClick extends React.Component {
 
 }
 
-ReactDOM.render(<ClickityClick />, document.getElementById('root'));
 
